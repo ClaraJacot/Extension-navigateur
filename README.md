@@ -24,7 +24,7 @@ Installation :
 Pour installer l'Extension, suivez ces étapes :
 
 -Manuellement grâce à un lien de téléchargement des fichiers :
-    Téléchargez le paquet de fichiers de l'extension.
+    Téléchargez le paquet de fichiers de l'extension. (https://drive.google.com/drive/folders/1H67ndE1xBjIgjaKgXsQMfXbnxLmUXMOO?usp=drive_link)
     Allez dans Chrome, extensions, gérer les extensions.
     Activez le mode développeur en haut à droite.
     Cliquer sur Charger l'extension non empaquetée, selectionner le dossier de l'extension.
